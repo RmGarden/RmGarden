@@ -1,16 +1,16 @@
-## About me:
 <img src="https://github.com/RmGarden/RmGarden/blob/main/Assets/line.png" alt="line" width="800" height="15"/>
-
+<img src="https://github.com/RmGarden/RmGarden/blob/main/Assets/RM.png" alt="line" width="800" height="15"/>
 <img src="https://github.com/RmGarden/RmGarden/blob/main/Assets/line.png" alt="line" width="800" height="15"/>
 
  <p float="center">
   <img src="https://github.com/RmGarden/RmGarden/blob/main/Assets/rm_agit1.png" alt="RmAvatar" width="200" align="left"/>
-  <br><br><b>Full-stack Developer</b> | <b>Debugging & QA Enthusiast</b><br><br>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Tahoma&size=24&pause=500&color=52E324&width=900&lines=Hi%2C+I%E2%80%99m+Raquel;Welcome+to+my+garden!+%F0%9F%8C%B1;Feel+free+to+wander+and+explore.;Pick+the+knowledge+that+catches+your+eye." alt="Typing SVG" align="center"/></a>
+  
+ </p>
+<br><br><b>Full-stack Developer</b> | <b>Debugging & QA Enthusiast</b><br><br>
   💻 Remote-Friendly &nbsp;|&nbsp; 🌍 Open to international work<br><br>
   📍 Portugal &nbsp;&nbsp; 
   <img></img> 
- </p>
-
  <img src="https://github.com/RmGarden/RmGarden/blob/main/Assets/line.png" alt="line" width="800" height="15"/>
  <img src="https://komarev.com/ghpvc/?username=RmGarden&label=VIEWS&color=brightgreen&style=plastic" alt="Profile views" align="left"/><br>
  <h3>🌿 About me</h3>
