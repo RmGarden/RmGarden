@@ -1,17 +1,17 @@
 ## About me:
-<img src="https://github.com/RmGarden/RmGarden/blob/main/Assests/line.png" alt="line" width="800" height="15"/>
+<img src="https://github.com/RmGarden/RmGarden/blob/main/Assets/line.png" alt="line" width="800" height="15"/>
 
-<img src="https://github.com/RmGarden/RmGarden/blob/main/Assests/line.png" alt="line" width="800" height="15"/>
+<img src="https://github.com/RmGarden/RmGarden/blob/main/Assets/line.png" alt="line" width="800" height="15"/>
 
  <p float="center">
-  <img src="https://github.com/RmGarden/RRmGarden/blob/main/Assests/rm_agit1.png" alt="RmAvatar" width="200" align="left"/>
+  <img src="https://github.com/RmGarden/RmGarden/blob/main/Assets/rm_agit1.png" alt="RmAvatar" width="200" align="left"/>
   <br><br><b>Full-stack Developer</b> | <b>Debugging & QA Enthusiast</b><br><br>
   💻 Remote-Friendly &nbsp;|&nbsp; 🌍 Open to international work<br><br>
   📍 Portugal &nbsp;&nbsp; 
   <img></img> 
  </p>
 
- <img src="https://github.com/RmGarden/RmGarden/blob/main/Assests/line.png" alt="line" width="800" height="15"/>
+ <img src="https://github.com/RmGarden/RmGarden/blob/main/Assets/line.png" alt="line" width="800" height="15"/>
  <img src="https://komarev.com/ghpvc/?username=RmGarden&label=VIEWS&color=brightgreen&style=plastic" alt="Profile views" align="left"/><br>
  <h3>🌿 About me</h3>
  <p>
@@ -21,7 +21,7 @@
  Trained in ethical hacking, red teaming, and vulnerability assessment. <br>
  Always learning and exploring new tools & frameworks!<br>
  </p><br>
-<img src="https://github.com/RmGarden/RmGarden/blob/main/Assests/line.png" alt="line" width="800" height="15"/>
+<img src="https://github.com/RmGarden/RmGarden/blob/main/Assets/line.png" alt="line" width="800" height="15"/>
 
 <h3>🌱 Skills</h3>
 <p>
@@ -43,7 +43,7 @@ Linux ▫ Windows ▫ Android <br>
 <b>Cybersecurity</b>  <br>
 Ethical Hacking ▫ Red Team ▫ Firewalls  <br>
 </p>
-<img src="https://github.com/RmGarden/RmGarden/blob/main/Assests/line.png" alt="line" width="800" height="15"/>
+<img src="https://github.com/RmGarden/RmGarden/blob/main/Assets/line.png" alt="line" width="800" height="15"/>
 
 🤝 Let's Collaborate<br>
 
