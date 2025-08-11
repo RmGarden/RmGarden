@@ -39,7 +39,7 @@
 <h3>🌱 Skills</h3>
 <p>
 <b>Languages</b> <br>
- Python ▫ Java ▫ C ▫ SQL ▫ .NET ▫ HTML ▫ CSS ▫ COBOL<br>
+ Python ▫ Java ▫ C ▫ MySQL ▫ SQLite ▫ .NET ▫ HTML ▫ CSS ▫ COBOL<br>
  
 <b>Tools</b><br>
 PowerBI ▫ PowerApps ▫ PowerAutomate ▫ Sharepoint <br>
