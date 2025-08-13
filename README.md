@@ -44,7 +44,7 @@
 <b>Tools</b><br>
 PowerBI ▫ PowerApps ▫ PowerAutomate ▫ Sharepoint <br>
 VSCode ▫ Git ▫ <br>
-Jira ▫ YouTrack ▫ Slack ▫ Zoom ▫ Teams ▫ TeamViewer <br>
+Jira ▫ YouTrack ▫ Slack ▫ Zoom ▫ Teams ▫ TeamViewer ▫ EasyVista <br>
 ActiveDirectory ▫ EasyVista ▫ Ivanti <br>
 
 <b>Frameworks</b> <br>
